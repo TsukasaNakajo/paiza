@@ -1,0 +1,5 @@
+hello world!
+
+
+git config --global user.email "tukanaka222@gmail.com"
+git config --global user.name "tsukasa nakajo"
